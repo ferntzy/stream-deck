@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "active_profile": "Work",
+  "profiles": {
+    "Work": [
+      {
+        "trigger": "f1",
+        "label": "oof",
+        "action": "sound",
+        "value": "C:/Users/OWNER/Desktop/stream deck/audio/roblox-death-sound_1.mp3"
+      },
+      {
+        "trigger": "f2",
+        "label": "offff",
+        "action": "image",
+        "value": "C:/Users/OWNER/Pictures/Screenshots/Screenshot 2026-10-15 164524.png",
+        "duration": "1"
+      },
+      {
+        "trigger": "f3",
+        "label": "F3",
+        "action": "media",
+        "value": "play/pause"
+      }
+    ],
+    "Streaming": [],
+    "Gaming": []
+  }
+}
